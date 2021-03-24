@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Gabriele Santin</title>
+    <link>https://GabrieleSantin.github.io/publication/</link>
+      <atom:link href="https://GabrieleSantin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://GabrieleSantin.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://GabrieleSantin.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Greedy kernel methods for accelerating implicit integrators for parametric ODEs</title>
+      <link>https://GabrieleSantin.github.io/publication/bruennette2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/bruennette2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greedy kernel methods for center manifold approximation</title>
+      <link>https://GabrieleSantin.github.io/publication/hamzi2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/hamzi2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Methods for Surrogate Modeling</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</title>
+      <link>https://GabrieleSantin.github.io/publication/koeppel2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/koeppel2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greedy kernel approximation for sparse surrogate modelling.</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image reconstruction from scattered Radon data by weighted positive definite kernel functions</title>
+      <link>https://GabrieleSantin.github.io/publication/demarchi2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/demarchi2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpolation with uncoupled separable matrix-valued kernels</title>
+      <link>https://GabrieleSantin.github.io/publication/wittwar2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/wittwar2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modelling of a peripheral arterial stenosis using dimensionally  reduced models and kernel methods</title>
+      <link>https://GabrieleSantin.github.io/publication/koeppl2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/koeppl2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rescaled method for RBF approximation</title>
+      <link>https://GabrieleSantin.github.io/publication/demarchi2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/demarchi2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence rate of the data-independent P-greedy algorithm in kernel-based spaces</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partition of unity interpolation using stable kernel-based techniques</title>
+      <link>https://GabrieleSantin.github.io/publication/cavoretto2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/cavoretto2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating basins of attraction for dynamical systems via stable radial bases</title>
+      <link>https://GabrieleSantin.github.io/publication/cavoretto2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/cavoretto2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of eigenfunctions in kernel-based spaces</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast computation of orthonormal basis for RBF spaces through Krylov space methods</title>
+      <link>https://GabrieleSantin.github.io/publication/demarchi2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/demarchi2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RBF approximation of large datasets by partition of unity and local stabilization</title>
+      <link>https://GabrieleSantin.github.io/publication/cavoretto2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/cavoretto2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new stable basis for radial basis function interpolation</title>
+      <link>https://GabrieleSantin.github.io/publication/demarchi2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/demarchi2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An algebraic cubature formula on curvilinear polygons</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 | Gabriele Santin</title>
+    <link>https://GabrieleSantin.github.io/tags/tag2/</link>
+      <atom:link href="https://GabrieleSantin.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <description>tag2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://GabrieleSantin.github.io/img/icon-192.png</url>
+      <title>tag2</title>
+      <link>https://GabrieleSantin.github.io/tags/tag2/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of data-driven uncertainty quantification methods for a carbon dioxide storage benchmark scenario</title>
+      <link>https://GabrieleSantin.github.io/publication/koeppel2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/koeppel2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greedy kernel approximation for sparse surrogate modelling.</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rescaled method for RBF approximation</title>
+      <link>https://GabrieleSantin.github.io/publication/demarchi2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/demarchi2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An algebraic cubature formula on curvilinear polygons</title>
+      <link>https://GabrieleSantin.github.io/publication/santin2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/publication/santin2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

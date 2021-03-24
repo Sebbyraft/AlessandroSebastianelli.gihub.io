@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Gabriele Santin</title>
+    <link>https://GabrieleSantin.github.io/authors/</link>
+      <atom:link href="https://GabrieleSantin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://GabrieleSantin.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://GabrieleSantin.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://GabrieleSantin.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://GabrieleSantin.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Researcher in the &lt;a href=&#34;https://ict.fbk.eu/units/mobs/&#34; target=&#34;_blank&#34;&gt;MobS Lab&lt;/a&gt; at the &lt;a href=&#34;https://ict.fbk.eu/&#34; target=&#34;_blank&#34;&gt;Center for Information and Communication Technology&lt;/a&gt; of the Fondazione Bruno Kessler in Trento (IT).&lt;/p&gt;
+
+&lt;p&gt;I work with the &lt;a href=&#34;https://ict.fbk.eu/units/rsde/&#34; target=&#34;_blank&#34;&gt;RSDE&lt;/a&gt; and &lt;a href=&#34;https://ict.fbk.eu/units/dcl/&#34; target=&#34;_blank&#34;&gt;DCL&lt;/a&gt; labs to develope Machine Learning solutions and algorithms for the exploitation of different data sources and modeling techniques within the &amp;ldquo;City Sensing&amp;rdquo; project.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m also a junior partecipating researcher in the Cluster of Excellence &lt;a href=&#34;https://www.simtech.uni-stuttgart.de/en/&#34; target=&#34;_blank&#34;&gt;Data-integrated Simulation Science&lt;/a&gt;, where I&amp;rsquo;m a member of the Project Network &lt;a href=&#34;https://www.simtech.uni-stuttgart.de/en/research/networks/6/&#34; target=&#34;_blank&#34;&gt;Machine Learning for Simulation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Previously, I&amp;rsquo;ve been for four years in the &lt;a href=&#34;https://www.ians.uni-stuttgart.de/anm/&#34; target=&#34;_blank&#34;&gt;group of Bernard Haasdonk&lt;/a&gt; at the University of Stuttgart, working on kernel based algorithms and their application to the surrogate modelling of complex simulations.&lt;/p&gt;
+
+&lt;p&gt;I obtained my MSc and PhD at the Department of Mathematics of the University of Padova under the supervision of Stefano De Marchi in the &lt;a href=&#34;https://www.math.unipd.it/~marcov/CAA.html&#34; target=&#34;_blank&#34;&gt;CAA group&lt;/a&gt;, where I wrote my theses on algorithmic and theoretical aspects of kernel based interpolation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
