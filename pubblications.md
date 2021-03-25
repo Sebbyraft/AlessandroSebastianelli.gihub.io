@@ -3,14 +3,9 @@
 # Pubblications
 He has co-authored some papers to international conferences and to important journals for the sector of Remote Sensing. 
 
-#### [<img align="center" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" style="padding: 0px 15px 15px 0px"/> ][scholar] Google scholar [<img align="center" alt="codeSTACKr | ResearchGate" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" style="padding: 0px 15px 15px 30px"/>][gate] Research Gate [<img align="center" alt="codeSTACKr | Orcid" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" style="padding: 0px 15px 15px 30px"/>][gate] Orcid
+[<img align="center" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" style="padding: 0px 15px 15px 0px"/> ][scholar] Google scholar [<img align="center" alt="codeSTACKr | ResearchGate" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" style="padding: 0px 15px 15px 30px"/>][gate] Research Gate [<img align="center" alt="codeSTACKr | Orcid" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" style="padding: 0px 15px 15px 30px"/>][gate] Orcid
 
 He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” available on [the IET](https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
-
-
-[scholar]:https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ
-[gate]:https://www.researchgate.net/profile/Alessandro-Sebastianelli
-[orcid]:https://orcid.org/0000-0002-9252-907X
 
 ## 2021
 - Zaidenberg, D. A., Sebastianelli, A., Spiller, D., Saux, B. L., & Ullo, S. L. (2021). Advantages and Bottlenecks of Quantum Machine Learning for Remote Sensing. arXiv preprint arXiv:2101.10657.
@@ -27,3 +22,8 @@ He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Sa
 ## 2018
 - Ullo, S. L., Angelino, C. V., Cicala, L., Fiscante, N., & Addabbo, P. (2018, July). Use of Differential Interferometry on Sentinel-L Images for the Measurement of Ground Displacements. Ischia Earthquake and Comparison with Ingv Data. In IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium (pp. 2216-2219). IEEE.
 - Ullo, S. L., Mohan, A., Sebastianelli, A., Ahamed, S. E., Kumar, B., Dwivedi, R., & Sinha, G. R. (2020). A New Mask R-CNN Based Method for Improved Landslide Detection. arXiv preprint arXiv:2010.01499.
+
+
+[scholar]:https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ
+[gate]:https://www.researchgate.net/profile/Alessandro-Sebastianelli
+[orcid]:https://orcid.org/0000-0002-9252-907X

@@ -17,8 +17,7 @@
 
 <br/><br/>
 
-# Pubblications
-He has co-authored some papers to international conferences and to important journals for the sector of Remote Sensing (https://scholar.google.com/citations?hl=it&user=WoTTS-UAAAAJ). He is also a co-Editor of a book entitled "Artificial Intelligence Applied to Satellite-based Remote Sensing Data for Earth Observation” (https://shop.theiet.org/artificial-intelligence-applied-to-satellite-based-remote-sensing-data-for-earth-observation).
+
 
 # Students
 He has been a co-Relator of thesis in Electronic Engineering, a co-Supervisor of MIT students (January 2019, 2020 and 2021).
